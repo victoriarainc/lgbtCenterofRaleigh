@@ -15,3 +15,14 @@ The Executive Director James Miller, Assistant Executive Director Kelly Taylor, 
 
 ###Research
 Kelly Miller led the research and analysis of non-profit web design. She uncovered related color theory, user experience methods, and performed SWOT analysis on other sites with similar objectives. Her education and background directly benefited the project and implemented a strategy that achieved our goals for the website.
+
+##Tools
+
+###Trello
+Implemented Agile development with four sprints, one for each week allotted for the project.
+
+###Balsamiq
+A mockup tool to plan, integrate, and develop layouts.
+
+###Canva
+Visual template creation used to display SWOT Analysis, style guides, and sketches.
