@@ -13,6 +13,12 @@ Voices from all over Raleigh helped contribute to this redesign. Staff, voluntee
 
 The Executive Director James Miller, Assistant Executive Director Kelly Taylor, and Web Developer Jim Manchester all led the way for this redesign to be a successful project that benefited both the community and the Center.
 
+A Facebook poll collected opinions from the volunteers of the center to talk about what they would like to see improved, how they believe the site is used most, and what questions they receive most often from members of the community.
+
+As well, a suggestion box was left at the Center for a week to collect suggestions from members. These were collected and recorded for future maintenance and continued editing of the webpage as a whole. 
+
+After the site is launched, a link will be provided at the bottom of the page to bring users to a survey about their experience. This data will be monitored and taken into consideration for further maintenance of the site to make sure goals were reached.
+
 ### Research
 Kelly Miller led the research and analysis of non-profit web design. She uncovered related color theory, user experience methods, and performed SWOT analysis on other sites with similar objectives. Her education and background directly benefited the project and implemented a strategy that achieved our goals for the website.
 
