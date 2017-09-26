@@ -15,7 +15,7 @@ The Executive Director James Miller, Assistant Executive Director Kelly Taylor, 
 
 A Facebook poll collected opinions from the volunteers of the center to talk about what they would like to see improved, how they believe the site is used most, and what questions they receive most often from members of the community.
 
-As well, a suggestion box was left at the Center for a week to collect suggestions from members. These were collected and recorded for future maintenance and continued editing of the webpage as a whole. 
+As well, a suggestion box was left at the Center for a week to collect suggestions from members. These were collected and recorded for future maintenance and continued editing of the webpage as a whole.
 
 After the site is launched, a link will be provided at the bottom of the page to bring users to a survey about their experience. This data will be monitored and taken into consideration for further maintenance of the site to make sure goals were reached.
 
@@ -32,3 +32,6 @@ A mockup tool to plan, integrate, and develop layouts.
 
 ### Canva
 Visual template creation used to display SWOT Analysis, style guides, and sketches.
+
+### Survey Monkey
+Creates an easy to use survey for users to complete after visiting the website to evaluate some of their user experience. 
