@@ -29,6 +29,7 @@ body {
     margin-bottom: 30px;
 }
 
+/*Home page styling*/
 #donateButtonHomePg{
   background: red;
   color: white;
@@ -73,4 +74,11 @@ body {
 #card-header-yellow{
   background: yellow;
   color: black;
+}
+
+/*Donate Page Styling*/
+#fundraisingEventsButtonDonatePage{
+  background: orange;
+  color: white;
+  border: none;
 }
