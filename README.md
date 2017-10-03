@@ -24,6 +24,9 @@ Kelly Miller led the research and analysis of non-profit web design. She uncover
 
 ## Tools
 
+### Bootstrap
+Used a layout called Modern Business to quickly scaffold the website. 
+
 ### Trello
 Implemented Agile development with four sprints, one for each week allotted for the project.
 
@@ -34,4 +37,4 @@ A mockup tool to plan, integrate, and develop layouts.
 Visual template creation used to display SWOT Analysis, style guides, and sketches.
 
 ### Survey Monkey
-Creates an easy to use survey for users to complete after visiting the website to evaluate some of their user experience. 
+Creates an easy to use survey for users to complete after visiting the website to evaluate some of their user experience.
