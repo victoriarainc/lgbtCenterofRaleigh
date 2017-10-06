@@ -14,10 +14,27 @@ body {
     }
 }
 
+/*Navigation*/
+
 #navLogo{
   width: 200px;
+  margin-left: 0px;
 }
 
+#donateButtonNavBar{
+  background: red;
+  color: white;
+  border: none;
+  margin-left: 25px;
+}
+
+/*.nav-item {
+  color: black;
+}
+
+.nav-link a{
+  color: black;
+}*/
 
 .carousel-item {
     height: 65vh;
