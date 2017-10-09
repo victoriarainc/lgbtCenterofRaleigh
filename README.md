@@ -9,15 +9,16 @@ Web Developers Victoria Coleman and Kelly Miller both designed and built a new l
 
 ## About the LGBT Center of Raleigh
 **Mission Statement**
-
-To strengthen individual and community development through social and educational activities; to facilitate the incubation of supportive services and groups; and to identify needs and advocate for resources benefiting the diverse population of lesbian, gay, bisexual, and transgender people, their friends and supporters within and beyond central North Carolina.
+* Strengthen individual and community development through social and educational activities
+* Facilitate the incubation of supportive services and groups
+* Identify needs and advocate for resources benefiting the diverse population of lesbian, gay, bisexual, and transgender people, their friends and supporters within and beyond central North Carolina
 [Learn more](https://www.lgbtcenterofraleigh.com/)
 
 
 ## The Original Website - Pre Re-Design
 ![Before the Redesign](https://github.com/victoriarainc/lgbtCenterofRaleigh/blob/master/bootstrapPrototype/images/ExistingSiteFullScreenShot.png)
 
-## The Process
+## The Design Process
 
 ### Community Involvement
 Voices from all over Raleigh helped contribute to this redesign. Staff, volunteers, and members of the center were all welcomed to provide feedback and ideas for the website. This is an application that affects a large and growing community. Their voices mattered most during the planning and development of the LGBT Center of Raleigh's website.
