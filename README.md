@@ -1,10 +1,15 @@
-# Project
-2017 Redesign of the LGBT Center of Raleigh's website. Web Developers Victoria Coleman and Kelly Miller both designed and built a new layout to improve the Center's web application.
+# Project Overview
+2017 Redesign of the LGBT Center of Raleigh's website. 
+Web Developers Victoria Coleman and Kelly Miller both designed and built a new layout using Bootstrap to improve the Center's web application.
 
 ## Objectives
 - Update layout to a more modern design
 - Reach out to a new demographic of the community while continuing to care for the center's current member and volunteer base
 - Increase the number of donations and sustainers
+
+## About the LGBT Center of Raleigh
+Mission Statement:
+To strengthen individual and community development through social and educational activities; to facilitate the incubation of supportive services and groups; and to identify needs and advocate for resources benefiting the diverse population of lesbian, gay, bisexual, and transgender people, their friends and supporters within and beyond central North Carolina.
 
 ## Process
 
