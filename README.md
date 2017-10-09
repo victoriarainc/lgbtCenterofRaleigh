@@ -1,9 +1,10 @@
-# Project Overview
-### 2017 Redesign of the LGBT Center of Raleigh's website. 
+# LGBT Center of Raleigh Website Re-Design
+
+## Project Overview
 
 Web Developers Victoria Coleman and Kelly Miller both designed and built a new layout using Bootstrap to improve the Center's web application.
 
-## Objectives
+### Objectives
 - Update layout to a more modern design
 - Reach out to a new demographic of the community while continuing to care for the center's current member and volunteer base
 - Increase the number of donations and sustainers
@@ -34,6 +35,11 @@ Web Developers Victoria Coleman and Kelly Miller both designed and built a new l
 
 ## The Design Process
 
+### Research
+Kelly Miller led the research and analysis of non-profit web design. She uncovered related color theory, user experience methods, and performed SWOT analysis on other sites with similar objectives. Her education and background directly benefited the project and implemented a strategy that achieved our goals for the website.
+
+### Wireframing and Mockups
+
 ### Community Involvement
 Voices from all over Raleigh helped contribute to this redesign. Staff, volunteers, and members of the center were all welcomed to provide feedback and ideas for the website. This is an application that affects a large and growing community. Their voices mattered most during the planning and development of the LGBT Center of Raleigh's website.
 
@@ -45,8 +51,9 @@ Additionally, a suggestion box was left at the Center for a week to collect sugg
 
 After the site is launched, a link will be provided at the bottom of the page to bring users to a survey about their experience. This data will be monitored and taken into consideration for further maintenance of the site to make sure goals were reached.
 
-### Research
-Kelly Miller led the research and analysis of non-profit web design. She uncovered related color theory, user experience methods, and performed SWOT analysis on other sites with similar objectives. Her education and background directly benefited the project and implemented a strategy that achieved our goals for the website.
+### Future State and Roadmap
+
+
 
 ## Tools
 
