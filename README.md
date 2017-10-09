@@ -21,6 +21,11 @@ The existing LGBT web site was created 5 years prior and was in need of a makeov
     * *Assistant Executive Director, LGBT Center of Raleigh*
 * **Jim Manchester**
     * *Web Developer*
+    
+### The Community
+Voices from all over Raleigh helped contribute to this redesign. Staff, volunteers, and members of the center were all welcomed to provide feedback and ideas for the website. This is an application that affects a large and growing community. Their voices mattered most during the planning and development of the LGBT Center of Raleigh's website.
+
+The Executive Director James Miller, Assistant Executive Director Kelly Taylor, and Web Developer Jim Manchester all led the way for this redesign to be a successful project that benefited both the community and the Center.
 
 ## The Original Website - Pre Re-Design
 ![Before the Redesign](https://github.com/victoriarainc/lgbtCenterofRaleigh/blob/master/bootstrapPrototype/images/ExistingSiteFullScreenShot.png)
@@ -32,18 +37,13 @@ Read more about our design process here
 ### Research
 Kelly Miller led the research and analysis of non-profit web design. She uncovered related color theory, user experience methods, and performed SWOT analysis on other sites with similar objectives. Her education and background directly benefited the project and implemented a strategy that achieved our goals for the website.
 
-### Wireframing and Mockups
-![Balsamiq Mockup](https://github.com/victoriarainc/lgbtCenterofRaleigh/blob/master/DesignProcess/OriginalReview.png)
-
-
 ### Community Involvement
-Voices from all over Raleigh helped contribute to this redesign. Staff, volunteers, and members of the center were all welcomed to provide feedback and ideas for the website. This is an application that affects a large and growing community. Their voices mattered most during the planning and development of the LGBT Center of Raleigh's website.
-
-The Executive Director James Miller, Assistant Executive Director Kelly Taylor, and Web Developer Jim Manchester all led the way for this redesign to be a successful project that benefited both the community and the Center.
-
 A Facebook poll collected opinions from the volunteers of the center to talk about what they would like to see improved, how they believe the site is used most, and what questions they receive most often from members of the community.
 
 Additionally, a suggestion box was left at the Center for a week to collect suggestions from members. These were collected and recorded for future maintenance and continued editing of the webpage as a whole.
+
+### Wireframing and Mockups
+![Balsamiq Mockup](https://github.com/victoriarainc/lgbtCenterofRaleigh/blob/master/DesignProcess/OriginalReview.png)
 
 ## The New Home Page: Post Re-Design
 [See more re-designed pages here](https://github.com/victoriarainc/lgbtCenterofRaleigh/tree/master/DesignProcess/prototypeFullScreenShotsDesktop)
