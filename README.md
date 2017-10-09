@@ -1,8 +1,9 @@
 # LGBT Center of Raleigh Website Re-Design
 
 ## Project Overview
+*The LGBT Center of Raleigh is a 501(c)(3) tax-exempt non-profit corporation that seeks to identify needs and advocate for resources benefiting the diverse population of lesbian, gay, bisexual, and transgender people, their friends and supporters within and beyond central North Carolina.*   [Learn more](https://www.lgbtcenterofraleigh.com/)
 
-Web Developers Victoria Coleman and Kelly Miller both designed and built a new layout using Bootstrap to improve the Center's web application.
+The existing LGBT web site was created 5 years prior and was in need of a makeover. Web Developers Victoria Coleman and Kelly Miller both designed and built a new site layout using Bootstrap to improve the Center's web application.
 
 ### Objectives
 - Update existing website layout to a more modern design
@@ -54,6 +55,9 @@ Additionally, a suggestion box was left at the Center for a week to collect sugg
 After the site is launched, a link will be provided at the bottom of the page to bring users to a survey about their experience. This data will be monitored and taken into consideration for further maintenance of the site to make sure goals were reached.
 
 ### Future State and Roadmap
+* Continue to maintain and update the new site
+* Integrate Bootstrap prototype into existing code base
+* Continue to measure success of the new site by gathering survey data 
 
 
 
