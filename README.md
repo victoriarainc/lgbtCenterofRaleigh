@@ -11,8 +11,7 @@ Web Developers Victoria Coleman and Kelly Miller both designed and built a new l
 Mission Statement:
 To strengthen individual and community development through social and educational activities; to facilitate the incubation of supportive services and groups; and to identify needs and advocate for resources benefiting the diverse population of lesbian, gay, bisexual, and transgender people, their friends and supporters within and beyond central North Carolina.
 
-![Original Website](https://github.com/.png)
-
+![Before the Redesign](https://github.com/victoriarainc/lgbtCenterofRaleigh/blob/master/bootstrapPrototype/images/ExistingSiteFullScreenShot.png)
 
 ## Process
 
