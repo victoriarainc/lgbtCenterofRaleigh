@@ -35,6 +35,8 @@ The existing LGBT web site was created 5 years prior and was in need of a makeov
 ![Before the Redesign](https://github.com/victoriarainc/lgbtCenterofRaleigh/blob/master/bootstrapPrototype/images/ExistingSiteFullScreenShot.png)
 
 ## The Design Process
+Read more about our design process here
+[Learn more](https://github.com/victoriarainc/lgbtCenterofRaleigh/tree/master/DesignProcess)
 
 ### Research
 Kelly Miller led the research and analysis of non-profit web design. She uncovered related color theory, user experience methods, and performed SWOT analysis on other sites with similar objectives. Her education and background directly benefited the project and implemented a strategy that achieved our goals for the website.
@@ -52,7 +54,11 @@ A Facebook poll collected opinions from the volunteers of the center to talk abo
 
 Additionally, a suggestion box was left at the Center for a week to collect suggestions from members. These were collected and recorded for future maintenance and continued editing of the webpage as a whole.
 
-### Future State and Roadmap
+## The New Home Page: Post Re-Design
+[See more re-designed pages here](https://github.com/victoriarainc/lgbtCenterofRaleigh/tree/master/DesignProcess/prototypeFullScreenShotsDesktop)
+![After the Redesign](https://github.com/victoriarainc/lgbtCenterofRaleigh/blob/master/DesignProcess/prototypeFullScreenShotsDesktop/homepageBootstrapFinal.png)
+
+## Future State and Roadmap
 * Continue to maintain and update the new site
 * After the site is launched, a link will be provided at the bottom of the page to bring users to a survey about their experience. This data will be monitored and taken into consideration for further maintenance of the site to make sure goals were reached.
 
