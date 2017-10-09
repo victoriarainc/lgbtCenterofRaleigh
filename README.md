@@ -52,14 +52,9 @@ A Facebook poll collected opinions from the volunteers of the center to talk abo
 
 Additionally, a suggestion box was left at the Center for a week to collect suggestions from members. These were collected and recorded for future maintenance and continued editing of the webpage as a whole.
 
-After the site is launched, a link will be provided at the bottom of the page to bring users to a survey about their experience. This data will be monitored and taken into consideration for further maintenance of the site to make sure goals were reached.
-
 ### Future State and Roadmap
 * Continue to maintain and update the new site
-* Integrate Bootstrap prototype into existing code base
-* Continue to measure success of the new site by gathering survey data 
-
-
+* After the site is launched, a link will be provided at the bottom of the page to bring users to a survey about their experience. This data will be monitored and taken into consideration for further maintenance of the site to make sure goals were reached.
 
 ## Tools
 
