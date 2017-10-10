@@ -22,19 +22,19 @@ body {
   border: none;
 }
 
-#viewMoreEventsButton{
+#orange-button{
   background: orange;
   color: white;
   border: none;
 }
 
-#greenButtonHomePg{
+#green-button{
   background: green;
   color: white;
   border: none;
 }
 
-#outGuideReadMoreButton{
+#purple-button{
   background: purple;
   border: none;
 }
