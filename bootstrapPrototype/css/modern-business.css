@@ -83,47 +83,20 @@ body {
   background: purple;
   color: white;
 }
+
 #card-header-red{
   background: red;
   color: white;
 }
+
 #card-header-orange{
   background: orange;
   color: white;
 }
+
 #card-header-yellow{
   background: yellow;
   color: black;
-}
-
-#dailyEmailSignUpButton{
-  background: blue;
-
-}
-
-/*Donate Page Styling*/
-#fundraisingEventsButtonDonatePage{
-  background: orange;
-  color: white;
-  border: none;
-}
-
-#volunteerButtonDonatePage{
-  background: green;
-  color: white;
-  border: none;
-}
-
-/*Resources Main Page*/
-#resourcesMentalHealthButton{
-  background: orange;
-  border: none;
-}
-
-#communityResourcesReadMoreButton{
-  background: green;
-  color: white;
-  border: none;
 }
 
 /*Library Page*/
