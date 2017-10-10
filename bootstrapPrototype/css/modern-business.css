@@ -130,3 +130,9 @@ body {
   background: purple;
   border: none;
 }
+
+/*Library Page*/
+#library-image {
+  height: 300px;
+  width: 700px;
+}
