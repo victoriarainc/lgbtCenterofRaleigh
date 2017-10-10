@@ -14,44 +14,9 @@ body {
     }
 }
 
-/*Navigation*/
+/*Buttons*/
 
-#navLogo{
-  width: 200px;
-  margin-left: 0px;
-}
-
-#donateButtonNavBar{
-  background: red;
-  color: white;
-  border: none;
-  margin-left: 15px;
-}
-
-/*.nav-item {
-  color: black;
-}
-
-.nav-link a{
-  color: black;
-}*/
-
-.carousel-item {
-    height: 65vh;
-    min-height: 300px;
-    background: no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-.portfolio-item {
-    margin-bottom: 30px;
-}
-
-/*Home page styling*/
-#donateButtonHomePg{
+#red-button{
   background: red;
   color: white;
   border: none;
@@ -68,6 +33,41 @@ body {
   color: white;
   border: none;
 }
+
+#outGuideReadMoreButton{
+  background: purple;
+  border: none;
+}
+
+/*Navigation*/
+
+#navLogo{
+  width: 200px;
+  margin-left: 0px;
+}
+
+#donateButtonNavBar{
+  background: red;
+  color: white;
+  border: none;
+  margin-left: 15px;
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+/*Home page styling*/
 
 #card-header-green{
   background: green;
@@ -123,11 +123,6 @@ body {
 #communityResourcesReadMoreButton{
   background: green;
   color: white;
-  border: none;
-}
-
-#outGuideReadMoreButton{
-  background: purple;
   border: none;
 }
 
